@@ -1,0 +1,26 @@
+[debug] [2018-07-09T03:58:44.230Z] ----------------------------------------------------------------------
+[debug] [2018-07-09T03:58:44.234Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-07-09T03:58:44.234Z] CLI Version:   3.18.4
+[debug] [2018-07-09T03:58:44.234Z] Platform:      linux
+[debug] [2018-07-09T03:58:44.234Z] Node Version:  v9.8.0
+[debug] [2018-07-09T03:58:44.234Z] Time:          Sun Jul 08 2018 22:58:44 GMT-0500 (CDT)
+[debug] [2018-07-09T03:58:44.234Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-07-09T03:58:44.248Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-07-09T03:58:44.249Z] > authorizing via signed-in user
+[debug] [2018-07-09T03:58:44.251Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/drivingapp-29059  
+  
+ Sun Jul 08 2018 22:58:44 GMT-0500 (CDT)
+[debug] [2018-07-09T03:58:45.011Z] <<< HTTP RESPONSE 200
+[debug] [2018-07-09T03:58:45.013Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/drivingapp-29059/tokens  
+  
+ Sun Jul 08 2018 22:58:45 GMT-0500 (CDT)
+[debug] [2018-07-09T03:58:45.507Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'drivingapp-29059'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing public directory for upload...
+[debug] [2018-07-09T03:58:46.972Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/drivingapp-29059/uploads/-LGxBGIk6tub-pWUxwCv?fileCount=105&message=  
+  
+ Sun Jul 08 2018 22:58:46 GMT-0500 (CDT)
