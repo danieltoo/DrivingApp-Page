@@ -154,7 +154,7 @@ section h2 {
 header.masthead {
   position: relative;
   padding: 250px 0;
-  background-image: url("/assets/img/map1.jpg");
+  background-image: url("assets/img/map1.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -299,7 +299,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("/assets/img/407ETR-Toll-Road-Canada-1533x750.jpg");
+  background-image: url("assets/img/407ETR-Toll-Road-Canada-1533x750.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
